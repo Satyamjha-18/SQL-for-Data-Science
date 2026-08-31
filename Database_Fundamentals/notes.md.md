@@ -44,11 +44,9 @@ A database generally contains tables, and tables contain rows and columns.
 A table stores data in the form of **rows and columns**.
 
 ### Row
-
 A row represents one complete record.
 
 ### Column
-
 A column represents an attribute or field.
 
 ### Example
