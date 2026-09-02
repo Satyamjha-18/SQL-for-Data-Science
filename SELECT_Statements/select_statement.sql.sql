@@ -240,5 +240,3 @@ select * from order_items;
 select sum(quantity)
 from order_items
 where quantity>1;
-
-
