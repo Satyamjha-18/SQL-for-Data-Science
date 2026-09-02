@@ -868,7 +868,6 @@ LIMIT 5;
 
 
 # Final Revision
-
 The most important SELECT query structure is:
 
 SELECT column1, column2
