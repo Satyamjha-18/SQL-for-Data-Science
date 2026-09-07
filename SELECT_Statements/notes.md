@@ -866,7 +866,6 @@ FROM products
 ORDER BY SellingPrice DESC
 LIMIT 5;
 
-
 # Final Revision
 The most important SELECT query structure is:
 
