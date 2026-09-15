@@ -607,6 +607,7 @@ FROM customers;
 
 ## Mistake 2: Missing Comma
 
+
 Incorrect:
 
 SELECT Name Age City
@@ -866,9 +867,9 @@ FROM products
 ORDER BY SellingPrice DESC
 LIMIT 5;
 
+
 # Final Revision
 The most important SELECT query structure is:
-
 SELECT column1, column2
 FROM table_name
 WHERE condition
